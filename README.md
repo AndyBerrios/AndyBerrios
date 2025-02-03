@@ -68,7 +68,7 @@ Here are some of my recent projects and accomplishments:
 <h3>Data &amp; Analytics Platforms</h3>
 <p align="left">
 <!-- Databricks -->
-<img src="https://docs.databricks.com/_static/images/databricks-logo.png"
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png)"
      width="40" height="40" alt="Databricks" />
   <!-- Posit (formerly RStudio) using devicon's RStudio icon -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg"
