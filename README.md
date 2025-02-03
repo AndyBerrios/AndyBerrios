@@ -14,11 +14,13 @@
 Here are some of my recent projects and accomplishments:
 - Project 1: 📊[Gold Price](https://github.com/AndyBerrios/Gold-Silver-Time-Series) - A Time-Series Model showing the effectiveness of using silver data to predict gold prices.
 - Project 2: 📂[Titanic Survivors](https://github.com/AndyBerrios/Titanic_Random_Forest) - A Random Forest model used to classify the likelihood of survivability of passengers aboard the Titanic.
-- Achievement 1: 🎯[2024 Jose Ruano Award for civic engagement, advocacy and campus involvement.](https://www.hacu.net/NewsBot.asp?MODE=VIEW&ID=4883)
+- Achievement 🏆: 🎯[2024 Jose Ruano Award for civic engagement, advocacy and campus involvement.](https://www.hacu.net/NewsBot.asp?MODE=VIEW&ID=4883)
 
+### Recent LinkedIn posts
 
+👨‍🎓[Selected as UH student spotilight for Spring 2025](https://www.linkedin.com/posts/andy-berrios_student-spotlight-andy-berrios-activity-7290096985867440128-M3Fu?utm_source=share&utm_medium=member_desktop)
 
-
+### Connect with Me
 
 
 
