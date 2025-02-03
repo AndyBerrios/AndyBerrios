@@ -27,11 +27,8 @@ Here are some of my recent projects and accomplishments:
        alt="linkedin" width="40" height="40"/>
 </a>
 
-
-### Programming Languages:
-
 <!-- Programming Languages -->
-<h3>Programming Languages</h3>
+<h3>Programming Languages:</h3>
 <p align="left">
   <!-- R -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" 
