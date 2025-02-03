@@ -53,8 +53,8 @@ Here are some of my recent projects and accomplishments:
   <!-- Tableau -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png"
        width="40" height="40" alt="Tableau" />
-  <!-- Microsoft Office -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Microsoft_Office_2013_logo.svg"
+ <!-- Microsoft Office (2019–present logo) -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Microsoft_Office_logo_%282019%E2%80%93present%29.svg"
        width="40" height="40" alt="Microsoft Office" />
   <!-- Linux -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
