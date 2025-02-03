@@ -28,14 +28,77 @@ Here are some of my recent projects and accomplishments:
 </a>
 
 
-Programming Languages:
+### Programming Languages:
 
+<!-- Programming Languages -->
+<h3>Programming Languages</h3>
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg](https://www.cprogramming.com)" width="40" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP" />
-  <!-- etc... -->
+  <!-- R -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" 
+       width="40" height="40" alt="R" />
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
+       width="40" height="40" alt="Python" />
+  <!-- C++ -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" 
+       width="40" height="40" alt="C++" />
+  <!-- C# -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" 
+       width="40" height="40" alt="C#" />
 </p>
+
+<!-- Database & Tools -->
+<h3>Database &amp; Tools</h3>
+<p align="left">
+  <!-- SQL (using MySQL icon here as a stand-in for SQL) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+       width="40" height="40" alt="SQL" />
+  <!-- Tableau -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png"
+       width="40" height="40" alt="Tableau" />
+  <!-- Microsoft Office -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Microsoft_Office_2013_logo.svg"
+       width="40" height="40" alt="Microsoft Office" />
+  <!-- Linux -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
+       width="40" height="40" alt="Linux" />
+  <!-- Power BI -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"
+       width="40" height="40" alt="Power BI" />
+</p>
+
+<!-- Data & Analytics Platforms -->
+<h3>Data &amp; Analytics Platforms</h3>
+<p align="left">
+  <!-- Databricks -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Databricks_Logo.png"
+       width="40" height="40" alt="Databricks" />
+  <!-- Posit (formerly RStudio) -->
+  <img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/SVG/rstudio.svg"
+       width="40" height="40" alt="Posit/RStudio" />
+  <!-- Trello -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"
+       width="40" height="40" alt="Trello" />
+  <!-- Git -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+       width="40" height="40" alt="Git" />
+</p>
+
+<!-- Languages -->
+<h3>Languages</h3>
+<p align="left">
+  <!-- Spanish (Fluent) -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg"
+       width="40" height="40" alt="Spanish" />
+</p>
+
+<!-- Certifications -->
+<h3>Certifications</h3>
+<ul>
+  <li>SAFe Product Owner/Product Manager (POPM) – Agile (Expires: 10/2024)</li>
+  <li>SAFe 6 Practitioner – Agile (Expires: 09/2024)</li>
+</ul>
+
 
 <!--
 **AndyBerrios/AndyBerrios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
