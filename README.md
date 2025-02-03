@@ -20,7 +20,7 @@ Here are some of my recent projects and accomplishments:
 
 👨‍🎓[Selected as UH student spotlight for Spring 2025](https://www.linkedin.com/posts/andy-berrios_student-spotlight-andy-berrios-activity-7290096985867440128-M3Fu?utm_source=share&utm_medium=member_desktop)
 
-### Connect with Me:
+### Connect with Me
 
 <a href="https://www.linkedin.com/in/andy-berrios/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
@@ -28,7 +28,7 @@ Here are some of my recent projects and accomplishments:
 </a>
 
 <!-- Programming Languages -->
-<h3>Programming Languages:</h3>
+<h3>Programming Languages</h3>
 <p align="left">
   <!-- R -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" 
@@ -84,7 +84,8 @@ Here are some of my recent projects and accomplishments:
 <!-- Languages -->
 <h3>Languages</h3>
 <p align="left">
-  <img src="https://en.wikipedia.org/wiki/Flag_of_the_United_States#/media/File:Flag_of_the_United_States_(Pantone).svg"
+  <!-- English -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg"
        width="40" height="40" alt="English" />
   <!-- Spanish (Fluent) -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg"
