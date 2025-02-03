@@ -54,8 +54,9 @@ Here are some of my recent projects and accomplishments:
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png"
        width="40" height="40" alt="Tableau" />
 <!-- Microsoft Office -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Microsoft_Office_logo_%282019–present%29.svg/72px-Microsoft_Office_logo_%282019–present%29.svg.png"
-     width="40" height="40" alt="Microsoft Office" />
+<img src="./icons/Microsoft_Office-Logo.wine.png" 
+     width="40" height="40" 
+     alt="Microsoft Office Logo" />
   <!-- Linux -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
        width="40" height="40" alt="Linux" />
@@ -68,8 +69,9 @@ Here are some of my recent projects and accomplishments:
 <h3>Data &amp; Analytics Platforms</h3>
 <p align="left">
 <!-- Databricks -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png)"
-     width="40" height="40" alt="Databricks" />
+<img src="./icons/Databricks_Logo.png" 
+     width="40" height="40" 
+     alt="Databricks Logo" />
   <!-- Posit (formerly RStudio) using devicon's RStudio icon -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg"
        width="40" height="40" alt="Posit (RStudio)" />
