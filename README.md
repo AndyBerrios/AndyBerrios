@@ -22,7 +22,8 @@ Here are some of my recent projects and accomplishments:
 
 ### Connect with Me:
 
-caesar-wong@c4caesar
+[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/andy-berrios/))
+
 
 Programming Languages:
 
@@ -32,9 +33,6 @@ Programming Languages:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP" />
   <!-- etc... -->
 </p>
-
-https://www.cprogramming.com  java  javascript  php  python
-
 
 <!--
 **AndyBerrios/AndyBerrios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
