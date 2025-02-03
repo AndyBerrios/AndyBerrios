@@ -22,7 +22,10 @@ Here are some of my recent projects and accomplishments:
 
 ### Connect with Me:
 
-[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/andy-berrios/))
+<a href="https://www.linkedin.com/in/andy-berrios/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
+       alt="linkedin" width="40" height="40"/>
+</a>
 
 
 Programming Languages:
