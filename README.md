@@ -53,9 +53,9 @@ Here are some of my recent projects and accomplishments:
   <!-- Tableau -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png"
        width="40" height="40" alt="Tableau" />
-  <!-- Microsoft Office (2013–2019 logo; more reliable link) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Microsoft_Office_logo_%282013%E2%80%932019%29.svg"
-       width="40" height="40" alt="Microsoft Office" />
+<!-- Microsoft Office -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Microsoft_Office_logo_%282019–present%29.svg/72px-Microsoft_Office_logo_%282019–present%29.svg.png"
+     width="40" height="40" alt="Microsoft Office" />
   <!-- Linux -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
        width="40" height="40" alt="Linux" />
@@ -67,9 +67,9 @@ Here are some of my recent projects and accomplishments:
 <!-- Data & Analytics Platforms -->
 <h3>Data &amp; Analytics Platforms</h3>
 <p align="left">
-  <!-- Databricks (using a known stable .png logo from SeekLogo) -->
-  <img src="https://seeklogo.com/images/D/databricks-logo-B876R2FDDC-seeklogo.com.png"
-       width="40" height="40" alt="Databricks" />
+<!-- Databricks -->
+<img src="https://docs.databricks.com/_static/images/databricks-logo.png"
+     width="40" height="40" alt="Databricks" />
   <!-- Posit (formerly RStudio) using devicon's RStudio icon -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg"
        width="40" height="40" alt="Posit (RStudio)" />
