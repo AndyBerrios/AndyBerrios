@@ -26,7 +26,14 @@ caesar-wong@c4caesar
 
 Programming Languages:
 
- c  java  javascript  php  python
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP" />
+  <!-- etc... -->
+</p>
+
+https://www.cprogramming.com  java  javascript  php  python
 
 
 <!--
