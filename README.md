@@ -84,7 +84,7 @@ Here are some of my recent projects and accomplishments:
 <!-- Languages -->
 <h3>Languages</h3>
 <p align="left">
-  <img src="https://en.wikipedia.org/wiki/Flag_of_the_United_States)'
+  <img src="https://en.wikipedia.org/wiki/Flag_of_the_United_States'
        width="40" height="40" alt="English" />
   <!-- Spanish (Fluent) -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg"
