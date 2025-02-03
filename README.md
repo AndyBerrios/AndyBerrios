@@ -2,6 +2,13 @@
 
 ### A Resourceful & Creative Data Scientist Specialized in Machine Learning
 
+#### About me
+
+- 📚 I'm currently pursuing my Master's in Data Analytics at The University of Houston
+
+- 📧 How to reach me berrios.andyj@gmail.com
+
+- 😃 Fun fact - I am an avid chess player ♟️
 
 
 <!--
