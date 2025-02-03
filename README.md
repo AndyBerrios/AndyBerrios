@@ -18,11 +18,15 @@ Here are some of my recent projects and accomplishments:
 
 ### Recent LinkedIn posts
 
-👨‍🎓[Selected as UH student spotilight for Spring 2025](https://www.linkedin.com/posts/andy-berrios_student-spotlight-andy-berrios-activity-7290096985867440128-M3Fu?utm_source=share&utm_medium=member_desktop)
+👨‍🎓[Selected as UH student spotlight for Spring 2025](https://www.linkedin.com/posts/andy-berrios_student-spotlight-andy-berrios-activity-7290096985867440128-M3Fu?utm_source=share&utm_medium=member_desktop)
 
-### Connect with Me
+### Connect with Me:
 
+caesar-wong@c4caesar
 
+Programming Languages:
+
+ c  java  javascript  php  python
 
 
 <!--
