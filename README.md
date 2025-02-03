@@ -71,8 +71,8 @@ Here are some of my recent projects and accomplishments:
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Databricks_Logo.png"
        width="40" height="40" alt="Databricks" />
   <!-- Posit (formerly RStudio) -->
-  <img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/SVG/rstudio.svg"
-       width="40" height="40" alt="Posit/RStudio" />
+  <img src="https://posit.co/wp-content/uploads/2022/10/favicon-512.png"
+       width="40" height="40" alt="Posit" />
   <!-- Trello -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"
        width="40" height="40" alt="Trello" />
