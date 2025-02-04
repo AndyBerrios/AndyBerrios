@@ -16,11 +16,11 @@ Here are some of my recent projects and accomplishments:
 - Project 2: 📂[Titanic Survivors](https://github.com/AndyBerrios/Titanic_Random_Forest) - A Random Forest model used to classify the likelihood of survivability of passengers aboard the Titanic.
 - Achievement 🏆: 🎯[2024 Jose Ruano Award for civic engagement, advocacy and campus involvement.](https://www.hacu.net/NewsBot.asp?MODE=VIEW&ID=4883)
 
-### Recent LinkedIn posts
+<h3> Recent LinkedIn posts </h3>
 
 👨‍🎓[Selected as UH student spotlight for Spring 2025](https://www.linkedin.com/posts/andy-berrios_student-spotlight-andy-berrios-activity-7290096985867440128-M3Fu?utm_source=share&utm_medium=member_desktop)
 
-### Connect with Me
+<h3> Connect with Me </h3>
 
 <a href="https://www.linkedin.com/in/andy-berrios/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
