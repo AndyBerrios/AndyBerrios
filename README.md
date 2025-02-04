@@ -1,6 +1,5 @@
-# Hi there 👋, I am Andy! 
-
-## A Resourceful & Driven Data Scientist Specialized in Machine Learning
+<h1 align="center">Hi there 👋, I am Andy!</h1>
+<h2 align="center">A Resourceful & Driven Data Scientist Specialized in Machine Learning</h2>
 
 ### About me
 
