@@ -9,7 +9,7 @@
 
 - 😃 Fun fact - I am an avid chess player ♟️
 
-### 👨🏻‍💻 Projects and Accomplishments 
+<h3>👨🏻‍💻 Projects and Accomplishments </h3>
 Here are some of my recent projects and accomplishments:
 - Project 1: 📊[Gold Price](https://github.com/AndyBerrios/Gold-Silver-Time-Series) - A Time-Series Model showing the effectiveness of using silver data to predict gold prices.
 - Project 2: 📂[Titanic Survivors](https://github.com/AndyBerrios/Titanic_Random_Forest) - A Random Forest model used to classify the likelihood of survivability of passengers aboard the Titanic.
