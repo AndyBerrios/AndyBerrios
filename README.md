@@ -96,8 +96,8 @@ Here are some of my recent projects and accomplishments:
 <!-- Certifications -->
 <h3>Certifications</h3>
 <ul>
-  <li>SAFe Product Owner/Product Manager (POPM) – Agile (Expires: 10/2024)</li>
-  <li>SAFe 6 Practitioner – Agile (Expires: 09/2024)</li>
+  <li>SAFe Product Owner/Product Manager (POPM) – Agile (Expires: 10/2025)</li>
+  <li>SAFe 6 Practitioner – Agile (Expires: 09/2025)</li>
 </ul>
 
 
