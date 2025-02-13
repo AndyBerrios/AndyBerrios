@@ -1,11 +1,11 @@
-<h1 align="center">Hi there 👋, I am Andy!</h1>
-<h2 align="center">A Resourceful & Driven Data Scientist Specialized in Machine Learning</h2>
+<h1 align="center"> Hola! Hi! 🤠 I am Andy!</h1>
+<h2 align="center"> A Resourceful & Goal-Oriented Data Scientist Specialized in Machine Learning Models</h2>
 
 ### About me
 
-- 📚 I'm currently pursuing my Master's in Data Analytics at The University of Houston
+- 📚 I'm currently pursuing my Master's in Data Analytics at The University of Houston. I possess a Bachelors in Computer Science.
 
-- 📧 How to reach me berrios.andyj@gmail.com
+- 📧 How to reach me: berrios.andyj@gmail.com
 
 - 😃 Fun fact - I am an avid chess player ♟️
 
