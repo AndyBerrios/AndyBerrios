@@ -1,5 +1,5 @@
 <h1 align="center"> Hola! 🤠 I'm Andy!</h1>
-<h2 align="center"> A Resourceful & Goal-Oriented Data Scientist Specialized in Machine Learning Models </h2>
+<h2 align="center"> A Determined & Hard-Working Data Scientist Specializing in Machine Learning Models </h2>
 
 ### About me
 
