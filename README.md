@@ -3,7 +3,7 @@
 
 ### About me
 
-- 📚 I'm currently pursuing my Master's in Data Analytics at The University of Houston. I possess a Bachelors in Computer Science.
+- 📚 I'm a Master's in Data Analytics graduate. I also achieved a Bachelors in Computer Science with a minor in Data Science.
 
 - 📧 How to reach me: berrios.andyj@gmail.com
 
