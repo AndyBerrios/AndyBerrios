@@ -1,4 +1,4 @@
-<h1 align="center"> Hola! 🤠 I'm Andy!</h1>
+<h1 align="center"> Hola, I'm Andy! 🤠 </h1>
 <h2 align="center"> A Determined & Hard-Working Data Scientist Specializing in Machine Learning Models </h2>
 
 ### About me
