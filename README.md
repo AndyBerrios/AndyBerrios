@@ -18,7 +18,7 @@ Here are some of my recent projects and accomplishments:
 
 <h3> Recent LinkedIn posts </h3>
 
-👨‍🎓[Selected as UH student spotlight for Spring 2025](https://www.linkedin.com/posts/andy-berrios_student-spotlight-andy-berrios-activity-7290096985867440128-M3Fu?utm_source=share&utm_medium=member_desktop)
+👨‍🎓[Master's Graduation](https://www.linkedin.com/posts/andy-berrios_gogators-activity-7335360872959156224-sxZ_utm_source=share&utm_medium=member_desktop&rcm=ACoAADtnwrkBJ0kZmubHJjz2_gtsjedToqJHAQo)
 
 <h3> Connect with Me </h3>
 
