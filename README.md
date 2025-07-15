@@ -18,7 +18,7 @@ Here are some of my recent projects and accomplishments:
 
 <h3> Recent LinkedIn posts </h3>
 
-👨‍🎓[Master's Graduation](https://www.linkedin.com/posts/andy-berrios_gogators-activity-7335360872959156224-sxZ_utm_source=share&utm_medium=member_desktop&rcm=ACoAADtnwrkBJ0kZmubHJjz2_gtsjedToqJHAQo)
+👨‍🎓[Master's Graduation](https://www.linkedin.com/posts/andy-berrios_gogators-activity-7335360872959156224-sxZ_?utm_source=share&utm_medium=member_desktop&rcm=ACoAADtnwrkBJ0kZmubHJjz2_gtsjedToqJHAQo)
 
 <h3> Connect with Me </h3>
 
